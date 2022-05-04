@@ -85,6 +85,7 @@
 				<version>2.22.2</version>
 				<configuration>
 					<useFile>false</useFile>
+					<skipTests>true</skipTests>
 				</configuration>
 			</plugin>
 		</plugins>
